@@ -1,7 +1,6 @@
 <h1>Olá, seja BEM-VINDO!</h1>
 
 <div align="left">
-  <a href="https://github.com/sandromzljr/Analise-Exploratoria-Dados">
   <h2>O que é Análise Exploratória de Dados?</h2>
 
   <p>É o processo crítico de realizar investigações iniciais nos dados para descobrir padrões, detectar anomalias, testar hipóteses e verificar suposições com a ajuda de estatísticas e representações gráficas, é resumir suas principais características, geralmente empregando métodos de visualização de dados.
@@ -11,4 +10,8 @@
   
   <p>É o processo de limpeza e unificação de conjuntos de dados, brutos e complexos, para facilitar a análise.
   <p>É o conjunto de atividades de manipulação de dados para os mais variados fins do processo de Ciência de Dados: limpeza, análise exploratória, engenharia de atributos e pré-processamento.
+  
+  <hr>
+  <p>Este repositório continua em:</p>
+  <a href="https://github.com/sandromzljr/Engenharia-Atributos">1) Engenharia de Atributos</a>
 </div>
